@@ -2,6 +2,12 @@
 
 This EFI contains all the needed ACPI patches and kexts to make the ASUS UX32A run MacOS Sonoma/14.0
 
+ASUS UX32A Specs:
+- CPU: Intel Core i5-3317U
+- GPU: Intel HD 4000 Graphics (Ivy Bridge)
+- Speakers: Realtek ALC269VB
+- Display: 1366x768
+
 What works:
 - Graphic acceleration (After applying OCLP patch)
 - Wi-Fi
