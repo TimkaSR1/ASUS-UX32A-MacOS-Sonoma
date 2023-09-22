@@ -14,21 +14,23 @@ What works:
 - USB (Partially)
 
 Installation guide:
-Get MacOS Sonoma (Beta 7) image from [Olarila](https://www.olarila.com/files/?dir=Torrents)
-Flash the image to a USB flash drive (16GB at least) or a external hard drive using [BalenaEtcher](https://etcher.balena.io)
-Create a partition on your hard drive for MacOS (50GB at least and format the partitoin as NTFS so the installer can detect it)
-Download this EFI and generate an SMBIOS (I used the MacBookAir8,2 SMBIOS but any supported SMBIOS will work)
-Boot into MacOS
-Go to disk utility and format the partition you created earlier as APFS
-Go through the installation process
-After installing the OS download [OCLP](https://nightly.link/dortania/OpenCore-Legacy-Patcher/workflows/build-app-wxpython/sonoma-development/OpenCore-Patcher.app%20%28GUI%29.zip) and apply the root patch
+- Get MacOS Sonoma (Beta 7) image from [Olarila](https://www.olarila.com/files/?dir=Torrents)
+- Flash the image to a USB flash drive (16GB at least) or a external hard drive using [BalenaEtcher](https://etcher.balena.io)
+- Create a partition on your hard drive for MacOS (50GB at least and format the partitoin as NTFS so the installer can detect it)
+- Download this EFI and generate an SMBIOS (I used the MacBookAir8,2 SMBIOS but any supported SMBIOS will work)
+- Boot into MacOS
+- Go to disk utility and format the partition you created earlier as APFS
+- Go through the installation process
+- After installing the OS download [OCLP](https://nightly.link/dortania/OpenCore-Legacy-Patcher/workflows/build-app-wxpython/sonoma-development/OpenCore-Patcher.app%20%28GUI%29.zip) and apply the root patch
 After this you should be done
 
 Credits:
-Apple for MacOS
-[ASUS UX32VD Hackintosh](https://github.com/rafaelmaeuer/Asus-UX32VD-Hackintosh) for the ACPI patches
-[OpenIntelWireless](https://github.com/OpenIntelWireless) for [Itlwm](https://github.com/OpenIntelWireless/itlwm)
-[Acidanthera](https://github.com/acidanthera) for [OpenCore](https://github.com/acidanthera/OpenCorePkg), [Lilu](https://github.com/acidanthera/Lilu), [WhateverGreen](https://github.com/acidanthera/WhateverGreen), [VirtualSMC](https://github.com/acidanthera/VirtualSMC) 
-Incomplete...
+- [Apple](apple.com) for MacOS
+- [Olarila](olarila.com) for the MacOS images and original EFI folder
+- [ASUS UX32VD Hackintosh](https://github.com/rafaelmaeuer/Asus-UX32VD-Hackintosh) for the ACPI patches
+- [OpenIntelWireless](https://github.com/OpenIntelWireless) for [Itlwm](https://github.com/OpenIntelWireless/itlwm)
+- [Acidanthera](https://github.com/acidanthera) for [OpenCore](https://github.com/acidanthera/OpenCorePkg), [Lilu](https://github.com/acidanthera/Lilu), [WhateverGreen](https://github.com/acidanthera/WhateverGreen), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), [AppleALC](https://github.com/acidanthera/AppleALC), [CryptexFixup](https://github.com/acidanthera/CryptexFixup)
+- [dortania](https://github.com/dortania) for [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) and the [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
+- [5T33Z0](https://github.com/5T33Z0) for the [MacOS Ventura and higher install guide](https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/Ivy_Bridge-Ventura.md)
 
 Happy hackintoshing :3
