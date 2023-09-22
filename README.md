@@ -40,3 +40,6 @@ Credits:
 - [5T33Z0](https://github.com/5T33Z0) for the [MacOS Ventura and higher install guide](https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/Ivy_Bridge-Ventura.md)
 
 Happy hackintoshing :3
+
+![Screenshot 2023-09-22 at 8 36 28 PM](https://github.com/TimkaSR1/ASUS-UX32A-MacOS-Sonoma/assets/143961127/fa2cf6eb-d772-41ce-b3b4-abcce98ab97f)
+
