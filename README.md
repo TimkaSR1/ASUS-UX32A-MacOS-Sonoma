@@ -24,4 +24,11 @@ Go through the installation process
 After installing the OS download [OCLP](https://nightly.link/dortania/OpenCore-Legacy-Patcher/workflows/build-app-wxpython/sonoma-development/OpenCore-Patcher.app%20%28GUI%29.zip) and apply the root patch
 After this you should be done
 
+Credits:
+Apple for MacOS
+[ASUS UX32VD Hackintosh](https://github.com/rafaelmaeuer/Asus-UX32VD-Hackintosh) for the ACPI patches
+[OpenIntelWireless](https://github.com/OpenIntelWireless) for [Itlwm](https://github.com/OpenIntelWireless/itlwm)
+[Acidanthera](https://github.com/acidanthera) for [OpenCore](https://github.com/acidanthera/OpenCorePkg), [Lilu](https://github.com/acidanthera/Lilu), [WhateverGreen](https://github.com/acidanthera/WhateverGreen), [VirtualSMC](https://github.com/acidanthera/VirtualSMC) 
+Incomplete...
+
 Happy hackintoshing :3
