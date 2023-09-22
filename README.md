@@ -31,8 +31,8 @@ Installation guide:
 After this you should be done
 
 Credits:
-- [Apple](apple.com) for MacOS
-- [Olarila](olarila.com) for the MacOS images and original EFI folder
+- [Apple](https://apple.com) for MacOS
+- [Olarila](https://olarila.com) for the MacOS images and original EFI folder
 - [ASUS UX32VD Hackintosh](https://github.com/rafaelmaeuer/Asus-UX32VD-Hackintosh) for the ACPI patches
 - [OpenIntelWireless](https://github.com/OpenIntelWireless) for [Itlwm](https://github.com/OpenIntelWireless/itlwm)
 - [Acidanthera](https://github.com/acidanthera) for [OpenCore](https://github.com/acidanthera/OpenCorePkg), [Lilu](https://github.com/acidanthera/Lilu), [WhateverGreen](https://github.com/acidanthera/WhateverGreen), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), [AppleALC](https://github.com/acidanthera/AppleALC), [CryptexFixup](https://github.com/acidanthera/CryptexFixup)
