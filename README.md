@@ -20,7 +20,7 @@ What works:
 - USB (Partially)
 
 Installation guide:
-- Get MacOS Sonoma (Beta 7) image from [Olarila](https://www.olarila.com/files/?dir=Torrents)
+- Get MacOS Sonoma image from [Olarila](https://www.olarila.com/files/?dir=Torrents)
 - Flash the image to a USB flash drive (16GB at least) or a external hard drive using [BalenaEtcher](https://etcher.balena.io)
 - Create a partition on your hard drive for MacOS (50GB at least and format the partitoin as NTFS so the installer can detect it)
 - Download this EFI and generate an SMBIOS (I used the MacBookAir8,2 SMBIOS but any supported SMBIOS will work)
